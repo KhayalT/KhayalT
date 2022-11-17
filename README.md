@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KhayalT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KhayalT&repo=github-readme-stats)](https://github.com/KhayalT/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
