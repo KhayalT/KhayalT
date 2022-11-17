@@ -8,7 +8,7 @@ KhayalT/KhayalT is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KhayalT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Khayal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=KhayalT&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhayalT&layout=compact)
 
@@ -30,3 +30,6 @@ You can click the Preview link to take a look at your changes.
 ![MongoDB](https://img.shields.io/badge/-mongodb-black?logo=mongodb&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
+
+![khayals's Github Stats](https://github-readme-stats.vercel.app/api?username=KhayalT&count_private=true&show_icons=true&include_all_commits=true)
+
