@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhayalT
-- 👀 I’m interested in Blokchain
-- 🌱 I’m currently learning Web3 and Blokchain
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning Golang
 - 📫  Follow me on Instagram and LinkedIn
 
 <!---
