@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 **Languages and Tools:** 
 
+![GOLANG](https://img.shields.io/badge/-Golang-black?logo=golang&style=social)&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=social)&nbsp;&nbsp;
 ![Web3JS](https://img.shields.io/badge/-Web3-black?logo=web3&style=social)&nbsp;&nbsp;
