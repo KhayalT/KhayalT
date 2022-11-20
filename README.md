@@ -17,7 +17,6 @@ You can click the Preview link to take a look at your changes.
 ![GOLANG](https://img.shields.io/badge/-Golang-black?logo=go&style=social)&nbsp;&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=social)&nbsp;&nbsp;
-![Web3JS](https://img.shields.io/badge/-Web3-black?logo=web3&style=social)&nbsp;&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?logo=react&style=social)&nbsp;&nbsp;
 ![ReduxJS](https://img.shields.io/badge/-ReduxJS-black?logo=redux&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
