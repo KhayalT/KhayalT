@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhayalT
-- 👀 I’m interested in Golang
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java
 - 📫  Follow me on Instagram and LinkedIn
 
 <!---
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 **Languages and Tools:** 
 
 ![GOLANG](https://img.shields.io/badge/-Golang-black?logo=go&style=social)&nbsp;&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-black?logo=php&style=social)&nbsp;&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-black?logo=java&style=social)&nbsp;&nbsp;
 ![Solidity](https://img.shields.io/badge/-Solidity-black?logo=solidity&style=social)&nbsp;&nbsp;
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?logo=react&style=social)&nbsp;&nbsp;
 ![ReduxJS](https://img.shields.io/badge/-ReduxJS-black?logo=redux&style=social)&nbsp;&nbsp;
